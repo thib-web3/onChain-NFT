@@ -1,5 +1,5 @@
-# Sample Hardhat Project
+# ERC721 SVG NFT
 
-MINT A SVG NFT with fully on chain metadata
+Mint a SVG NFT with fully on chain metadata
 
 🛠️ Made with : Solidity - Typescript - Hardhat - Alchemy
